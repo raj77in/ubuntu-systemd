@@ -1,6 +1,6 @@
 ## From : https://github.com/bdellegrazie/docker-ubuntu-systemd/blob/master/Dockerfile
 
-FROM ubuntu:devel
+FROM ubuntu
 LABEL maintainer="brett.dellegrazie@gmail.com"
 
 ENV container=docker LANG=C.UTF-8
